@@ -1,3 +1,5 @@
+![Weather App Demo](assets/demo.png)
+
 # 🌦️ Weather Forecast CLI App using OpenWeatherMap API
 ![Python](https://img.shields.io/badge/python-3.8+-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
