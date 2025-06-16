@@ -1,3 +1,5 @@
+## 📸 Demo Screenshot
+
 ![Weather App Demo](assets/demo.png)
 
 # 🌦️ Weather Forecast CLI App using OpenWeatherMap API
@@ -25,7 +27,7 @@ Install required library:
 ```bash
 pip install requests
 
-🔐 How to Get an API Key
+## 🔐 How to Get an API Key
 Go to https://openweathermap.org/api
 
 Create a free account and log in
@@ -34,7 +36,7 @@ Visit the API Keys section in your dashboard
 
 Copy your unique API key
 
-🚀 How to Run the App
+## 🚀 How to Run the App
 Open the file Weather_Forecast_CLI_App_OpenWeatherMap_API.ipynb in Jupyter Notebook
 
 Run the cells one by one
