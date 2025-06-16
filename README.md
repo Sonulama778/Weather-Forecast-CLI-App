@@ -26,6 +26,7 @@ This is a simple Python command-line tool built in Jupyter Notebook that fetches
 Install required library:
 ```bash
 pip install requests
+```
 
 ## 🔐 How to Get an API Key
 Go to https://openweathermap.org/api
