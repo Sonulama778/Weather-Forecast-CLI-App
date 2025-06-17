@@ -70,13 +70,12 @@ Wind Speed (m/s): 1.5
 
 ## 📂 Project Structure
 📁 Weather-Forecast-CLI-App/
-├── Weather_Forecast_CLI_App_OpenWeatherMap_API.ipynb
-├── weather_cli_app.py
-├── README.md
-├── requirements.txt
-├── LICENSE
-└── assets/
-    └── demo.png
+Weather_Forecast_CLI_App_OpenWeatherMap_API.ipynb
+ weather_cli_app.py  
+ README.md  
+ requirements.txt  
+ LICENSE  
+ assets/demo.png  
 ## 🛡 License
 This project is licensed under the MIT License — feel free to use and modify.
 
