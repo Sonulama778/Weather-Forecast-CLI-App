@@ -79,8 +79,7 @@ This project is licensed under the MIT License — feel free to use and modify.
 
 👤 Author
 Sonu Tamang
-📍 Newark, New Jersey
-🔗 GitHub
-🔗 LinkedIn
-
+📍 Newark, New Jersey  
+🔗 [GitHub](https://github.com/Sonulama778)
+🔗 [LinkedIn](https://linkedin.com/in/sonu-tamang)
 
