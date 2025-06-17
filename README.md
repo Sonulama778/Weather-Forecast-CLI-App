@@ -53,16 +53,22 @@ bash
 Copy
 Edit
 ## 📍 Weather Forecast CLI App 📍
-Enter your OpenWeatherMap API key: your_api_key
+Enter your OpenWeatherMap API key: your_api_key  
+
 Enter city name (or type 'exit' to quit): Kathmandu
 
 ## 🌤 Weather Report:
 City: Kathmandu
+
 Temperature (°C): 26.8
+
 Description: Broken clouds
+
 Humidity (%): 63
+
 Wind Speed (m/s): 1.5
-📂 Project Structure
+
+## 📂 Project Structure
 📁 Weather-Forecast-CLI-App/
 ├── Weather_Forecast_CLI_App_OpenWeatherMap_API.ipynb
 ├── weather_cli_app.py
