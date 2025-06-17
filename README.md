@@ -69,7 +69,7 @@ Humidity (%): 63
 Wind Speed (m/s): 1.5
 
 ## 📂 Project Structure
-📁 Weather-Forecast-CLI-App/
+📁 Weather-Forecast-CLI-App/  
 Weather_Forecast_CLI_App_OpenWeatherMap_API.ipynb
  weather_cli_app.py  
  README.md  
