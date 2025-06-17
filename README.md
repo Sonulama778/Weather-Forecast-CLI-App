@@ -48,7 +48,9 @@ Enter any city name (e.g., Tokyo, Berlin)
 View the weather report printed in the output
 
 ## 🧪 Sample Output
-## 📍 Weather Forecast CLI App 📍
+
+📍 Weather Forecast CLI App 📍
+
 Enter your OpenWeatherMap API key: your_api_key  
 
 Enter city name (or type 'exit' to quit): Kathmandu
