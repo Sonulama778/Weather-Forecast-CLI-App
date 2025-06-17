@@ -47,3 +47,40 @@ Paste your API key when prompted
 Enter any city name (e.g., Tokyo, Berlin)
 
 View the weather report printed in the output
+
+🧪 Sample Output
+bash
+Copy
+Edit
+📍 Weather Forecast CLI App 📍
+Enter your OpenWeatherMap API key: your_api_key
+Enter city name (or type 'exit' to quit): Kathmandu
+
+🌤 Weather Report:
+City: Kathmandu
+Temperature (°C): 26.8
+Description: Broken clouds
+Humidity (%): 63
+Wind Speed (m/s): 1.5
+📂 Project Structure
+objectivec
+Copy
+Edit
+📁 Weather-Forecast-CLI-App/
+├── Weather_Forecast_CLI_App_OpenWeatherMap_API.ipynb
+├── weather_cli_app.py
+├── README.md
+├── requirements.txt
+├── LICENSE
+└── assets/
+    └── demo.png
+🛡 License
+This project is licensed under the MIT License — feel free to use and modify.
+
+👤 Author
+Sonu Tamang
+📍 Newark, New Jersey
+🔗 GitHub
+🔗 LinkedIn
+
+
